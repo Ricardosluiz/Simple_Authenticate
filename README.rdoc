@@ -9,3 +9,6 @@
 
 --#-- Rails
 - devise
+- therubyracer
+- less-rails
+- twitter-bootstrap-rails
